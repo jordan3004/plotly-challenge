@@ -1,0 +1,13 @@
+/* The styles for the parallax */
+.col-md-12 {
+    position: relative;
+    height: 250px;
+    padding: 20px;
+    margin: 1;
+    background: rgb(255, 255, 255);
+    background-image: url("./microbios.jpg");
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+    color: aliceblue;
+  }
